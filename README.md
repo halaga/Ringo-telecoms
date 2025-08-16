@@ -27,5 +27,3 @@ A sleek, animated corporate website for **Ringo.ng**, built to highlight telecom
 <img width="1919" height="925" alt="ringo" src="https://github.com/user-attachments/assets/5d94695b-0d0b-41e3-a457-8ea9aa615742" />
 
 
-📸 **Preview**
-*(Add screenshot here by dragging project screenshot into repo)*
